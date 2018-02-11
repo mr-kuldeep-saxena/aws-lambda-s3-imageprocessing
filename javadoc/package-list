@@ -1,0 +1,8 @@
+libs.integration.aws.imageprocessing
+libs.integration.aws.imageprocessing.io
+libs.integration.aws.imageprocessing.processor
+libs.integration.aws.imageprocessing.processor.convertor
+libs.integration.aws.imageprocessing.s3
+libs.integration.aws.imageprocessing.s3.io
+libs.integration.aws.imageprocessing.s3.util
+libs.integration.aws.imageprocessing.util
